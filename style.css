@@ -1,0 +1,36 @@
+body{
+    font-size: 30px;
+}
+
+.heading{
+    /* size: 79px; */
+    font-size: 120px;
+    background-color: bisque;
+    text-align: center;
+    border: 13px rgb(31, 27, 27) solid;
+    border-radius: 4px;
+}
+
+.tb{
+    margin: auto;
+    border: 3px rgb(31, 27, 27) solid;
+    border-radius: 4px;
+}
+
+.box{
+    border: 2px solid rgb(22, 22, 22);
+    border-radius: 4px;
+
+}
+.gap{
+    float: right;
+    margin-top: 80px;
+    /* padding-top: 80px; */
+    border: 2px solid rgb(22, 22, 22);
+    border-radius: 4px;
+}
+div{
+    float: right;
+    margin-top: 80px;
+
+}
